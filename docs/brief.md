@@ -8,13 +8,13 @@
 
 ## 1. Segmento elegido
 
-**Segmento:** Personal docente y estudiantil de la UNLaM, perteneciente a los distintos departamentos.
+**Segmento:** Personal docente y estudiantil de la UNLaM, pertenecientes únicamente a las carreras de grado.
 
-**Por qué ese segmento:** Docentes y estudiantes son quienes tienen mayor interés y participación en las actividades académicas de la UNLaM, por lo que son el público que más podría beneficiarse de una solución que centralice la información de eventos, charlas, jornadas y talleres, hoy dispersa entre el sitio web institucional, el calendario académico, redes sociales oficiales, centros de estudiantes y comunicaciones informales de cátedra.
+**Por qué ese segmento:** Porque estudiantes y docentes tienen una participación directa en las actividades académicas de la UNLaM. Los estudiantes son los principales destinatarios de estos eventos y necesitan acceder a información relevante sobre ellos, mientras que los docentes cumplen un rol importante en su difusión dentro de las comisiones.
 
 **Tamaño aproximado:** Entre 78.000 y 79.000 estudiantes y aproximadamente 3.400 docentes.
 
-**Qué los distingue del resto de la comunidad:** Están directamente vinculados con la actividad académica y administrativa de la universidad.
+**Qué los distingue del resto de la comunidad:** Son personas directamente vinculadas con la actividad académica de la universidad, principales participantes e interesados de la comunicación y participación de actividades complementarias a la cursada.
 
 ---
 
@@ -49,17 +49,17 @@
 
 > **Nota:** La selección del grupo primario es una decisión de diseño que todavía no fue validada con relevamiento. El TP2 va a confirmar o refutar si fue la elección correcta.
 
-**Académicos**
-Está compuesto por alumnos y docentes de la UNLaM, quienes tienen una relación directa con la actividad académica y con el problema de descubrimiento y difusión de eventos.
+**Alumnos**
+Alumnos activos de cualquier carrera de grado de la UNLaM que hoy se enteran de eventos solo si siguen la cuenta de su propio departamento, o por comentarios de compañeros/docentes. Se pierden sistemáticamente los eventos. Lo motivaría a usar el producto tener un único lugar donde ver y anotarse a eventos relevantes, sin depender de seguir múltiples Redes sociales.
 
-- Alumnos activos de cualquier carrera de la UNLaM que hoy se enteran de eventos solo si siguen la cuenta de su propio departamento, o por comentarios de compañeros/docentes. Se pierden sistemáticamente los eventos. Lo motivaría a usar el producto tener un único lugar donde ver y anotarse a eventos relevantes, sin depender de seguir múltiples Redes sociales.
-- Docentes de cualquier departamento que se enteran de eventos (propios o de otras áreas) y hoy los replican de forma manual e informal (verbalmente en clase, por mail o MIeL). Lo motivaría a usar el producto poder descubrir eventos relevantes para su cátedra sin buscar activamente en varias cuentas, y compartirlos con sus alumnos con un solo clic, sin redactar mensajes ni reenviar links sueltos
+**Docentes**
+Docentes de carreras de grado que se enteran de eventos (propios o de otras áreas) y hoy los replican de forma manual e informal (verbalmente en clase, por mail o MIeL). Los motivaría a usar el producto poder descubrir eventos relevantes para su cátedra sin buscar activamente en varias cuentas, y compartirlos con sus alumnos con un solo clic, sin redactar mensajes ni reenviar links sueltos
 
 **Administrador de eventos por departamento (community manager/administrativo)**
 Persona designada en cada departamento (DIIT, Económicas, Humanidades, etc.) responsable de difundir sus actividades. Hoy carga el mismo evento en Instagram y, a veces, por mail, sin un sistema único de gestión ni visibilidad de cuántos se anotaron. Lo motivaría poder cargar un evento una sola vez, con alcance garantizado a su público de interés, y tener control real de inscriptos sin depender de redes sociales externas.
 
-**Grupo de usuarios primario: Académicos**
-Se selecciona a los usuarios académicos, conformados por alumnos y docentes, como grupo de usuarios primario. Ambos perfiles tienen una relación directa con el problema identificado: los alumnos necesitan descubrir y acceder a eventos de interés para su formación, mientras que los docentes necesitan conocer y difundir actividades relevantes para sus cátedras.
+**Grupo de usuarios primario: Alumnos**
+Es el grupo primario son quienes experimentan el problema de dispersión de la información de forma más directa y frecuente: se pierden regularmente los eventos dentro de su propio departamento y no se enteran de actividades de otros departamentos que pueden ser complementarias a su formación. El alumno es también quien da valor real del producto; son los principales usuarios de las funcionalidades de consulta, filtrado e inscripción a eventos. Si no hay alumnos anotándose, no importa que tan organizada esté la difusión.
 
 ---
 
