@@ -23,7 +23,7 @@
      	9. LinkedIn
       	10. Otro (completar)
 	13. ¿Te gustaría enterarte de todos los eventos de interés de la facultad en un solo lugar? (sí/no)
-	14. ¿Te gustaría ser notificado activamente de los eventos en la UNLaM por plataformas de uso acadmémico diario (Teams)? (sí/no):
+	14. ¿Te gustaría ser notificado activamente de los eventos en la UNLaM por plataformas de uso académico diario (Teams)? (sí/no):
 	15. ¿Por qué dispositivos te enterás de los eventos?
 		1. Celular
 		2. Computadora
