@@ -2,57 +2,62 @@
 2. Preguntas Cuestionario:
 	1. Edad 
 	2. Departamento
-    3. Carrera 
-	4. Año de la carrera 
+    3. Carrera
+    4. Rol
+		Docente
+		Alumno
+	5. Año de la carrera 
 		1er Año
 		2do Año
 		3er Año
 		4to Año
 		5to Año
-	5. ¿Que interés tenés en los eventos propios de tu Departamento? (1 - No me interesan / 5 - Me interesan mucho)
-    6. ¿Que interés tenés en los eventos de los demás Departamentos? (1 - No me interesan / 5 - Me interesan mucho)
-    7. ¿Alguna vez quisiste asistir a un evento de la UNLaM y no pudiste porque no te enteraste a tiempo o no encontraste la información necesaria?
+	6. ¿Que interés tenés en los eventos propios de tu Departamento? (1 - No me interesan / 5 - Me interesan mucho)
+    7. ¿Que interés tenés en los eventos de los demás Departamentos? (1 - No me interesan / 5 - Me interesan mucho)
+    8. ¿Que tan seguido asistis a los eventos? (1 - Nunca / 5 - Siempre)
+    9. ¿Por que canales te enteras de los eventos de la UNLaM?
+		Miel
+		Instragram no oficial
+		Intagram oficial de la UNLaM
+		Pagina web de la Universidad
+		Por un docente
+		Por un compañero de la carrera
+		Grupos de Whatsapp
+		Microsoft Teams
+		Servidores de Discord
+		Facebook
+		LinkedIn
+		X (anteriormente Twitter)
+		Otro (completar)
+    10. ¿Con que frecuencia buscas informacion sobre eventos de la UNLaM por tu cuenta? 
+		Diariamente
+		Semanalmente
+		Mensualmente
+		Esporadicamente
+		Nunca
+	11. ¿Con que frecuencia te enteras de eventos que podrian ser de tu interes? (1 - Nunca / 5 - Casi siempre)
+    12. ¿Con cuánta antelación considerás que te enterás de los eventos de tu interés? (1 - Poca / 5 - Mucha)
+	13. ¿En qué dispositivos te enterás de los eventos?
+		Celular 
+		Computadora
+		Tablet
+		Otro (completar)
+ 	14. ¿Alguna vez quisiste asistir a un evento de la UNLaM y no pudiste porque no te enteraste a tiempo o no encontraste la información necesaria?
 		Si
 		No
-    8.	En caso de respuesta afirmativa: Cuando te enterás tarde o no te enterás de un evento, ¿cuál suele ser el motivo? 
-		No vi la publicación.
-		La publicación apareció demasiado cerca de la fecha.
-		No sabía dónde buscar la información.
-		La información estaba distribuida en distintos canales.
-		No sabía que el evento era de mi interés.
-		Recibí información incompleta.
-		Recibí demasiadas notificaciones.
+	15. Cuando te enterás tarde o no te enterás de un evento, ¿cuál suele ser el motivo?
+		No vi la publicacion
+		La publicacion aparecio demasiado cerca de la fecha
+		No sabia donde buscar la informacion
+		La informacion estaba distribuida en distintos canales
+		No sabia que el evento era de mi interes
+		Recibi informacion incompleta
+		Recibi demasiadas notificaciones
 		No me sucede
-		Otro
-    10. ¿Qué tan eficiente consideras la comunicación de eventos por parte de la administración de UNLaM? (1 - Nada eficiente / 5 - Muy eficiente)
-    11. ¿Con cuánta frecuencia revisas que eventos disponibles hay en la UNLaM?
-		Mensualmente
-		Semanalmente
-		Diariamente
-		Esporádicamente
-		Nunca
-	13. ¿Con qué frecuencia te enterás de eventos que podrían ser de tu interés? (1 - Poca frecuencia / 5 - Casi siempre)
- 	14. ¿Con cuánta antelación considerás que te enterás de los eventos de tu interés? (1 - Poca / 5 - Mucha)
-	16. ¿Qué tan seguido asistís a los eventos? (1 - nunca / 5 - siempre )
-	17. Canal de comunicación por la cual te enteras de los eventos:
-		1. Instagram no oficial
-		2. Instagram - canal oficial
-		3. Página web de la universidad
-		4. Grupos de Whatsapp
-		5. Teams
-		6. Servidores de Discord
-		7. Boca a boca
-		8. Facebook
-     	9. LinkedIn
-        10. Miel
-        11. X (anteriormente Twitter)
-        12. Por un docente
-        13. Por un compañero de la carrera
-      	14. Otro (completar)
-	19. ¿Te gustaría enterarte de todos los eventos de interés de la facultad en un solo lugar? (Sí/No)
-	20. ¿Te gustaría ser notificado activamente de los eventos en la UNLaM por plataformas de uso académico diario (Teams)? (sí/no):
-	21. ¿Por qué dispositivos te enterás de los eventos?
-		1. Celular
-		2. Computadora
-		3. Tablet
-	22. ***Opcionalmente*** - Describí tu opinión sobre cómo se comunican actualmente los eventos que se organizan en la universidad.
+		Otro (completar)
+	16. ¿Qué tan eficiente consideras la comunicación de eventos por parte de la administración de la UNLaM? (1 - Nada eficiente / 5 - Muy eficiente)
+	17. Describí tu opinión sobre cómo se comunican actualmente los eventos que se organizan en la universidad (Opcional).
+		Text box
+	19. ¿Te gustaría ser notificado activamente de los eventos en la UNLaM por plataformas de uso académico diario (MS Teams)? 
+		Si
+		No
