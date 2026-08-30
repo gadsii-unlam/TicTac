@@ -6,10 +6,12 @@
     4. Edad 
 	5. Etapa en la carrera (Año aproximado - Select 1,2,3,4,5,6,7,8,9)
 	6. Interés en los eventos propios o externos (1 - no me interesa nada / 5 - me interesa todo)
-	7. ¿Te enterás de los eventos con un tiempo de antelación que te permita asistir al evento? (1 - nunca me entero / 5 - siempre me entero con tiempo para asistir)
-	8. Frecuencia con la que te enterás de los eventos (1 - nunca me entero / 5 - me entero de todo)
-	9. ¿Qué tan seguido asistís a los eventos? (1 - nunca / 5 - siempre )
-	10. Plataforma por la cual te enterás de los eventos:
+    7. ¿Te perdiste de algún evento/s al cuál te hubiera gustado asistir?
+    8. ¿Qué tan eficiente consideras la comunicación de eventos por parte de la UNLaM?
+	9. ¿Te enterás de los eventos con un tiempo de antelación que te permita asistir al evento? (1 - nunca me entero / 5 - siempre         me entero con tiempo para asistir)
+	10. Frecuencia con la que te enterás de los eventos (1 - nunca me entero / 5 - me entero de todo)
+	11. ¿Qué tan seguido asistís a los eventos? (1 - nunca / 5 - siempre )
+	12. Plataforma por la cual te enterás de los eventos:
 		1. Instagram no oficial
 		2. Instagram - canal oficial
 		3. Página web de la universidad
@@ -20,10 +22,10 @@
 		8. Facebook
      	9. LinkedIn
       	10. Otro (completar)
-	11. ¿Te gustaría enterarte de todos los eventos de interés de la facultad en un solo lugar? (sí/no)
-	12. ¿Te gustaría ser notificado activamente de los eventos en la UNLaM por plataformas de uso acadmémico diario (Teams)? (sí/no):
-	13. ¿Por qué dispositivos te enterás de los eventos?
+	13. ¿Te gustaría enterarte de todos los eventos de interés de la facultad en un solo lugar? (sí/no)
+	14. ¿Te gustaría ser notificado activamente de los eventos en la UNLaM por plataformas de uso acadmémico diario (Teams)? (sí/no):
+	15. ¿Por qué dispositivos te enterás de los eventos?
 		1. Celular
 		2. Computadora
 		3. Tablet
-	14. ***Opcionalmente*** - Describí tu opinión sobre cómo se comunican actualmente los eventos que se organizan en la universidad.
+	16. ***Opcionalmente*** - Describí tu opinión sobre cómo se comunican actualmente los eventos que se organizan en la universidad.
