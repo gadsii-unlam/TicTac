@@ -1,4 +1,6 @@
-1. Técnica elegida para poder conocer al grupo de usuarios primarios identificado en el TP 1 es **encuesta** o **cuestionario**. Decidimos elegir esta técnica dado que nuestro grupo de usuarios es muy grande y tienen una diversidad académica considerable. Ya que nuestro proyecto se encarga de centralizar los eventos de los distintos departamentos, consideramos que el uso de las encuestas para conocer la satisfacción de muchos de estos nos otorgará información muy precisa con respecto a lo que los usuarios quieren.
+1. Técnica elegida
+
+    La técnica elegida para conocer al grupo de usuarios primarios identificado en el TP 1 es la **encuesta** o **cuestionario**. Decidimos elegir esta técnica dado que nuestro grupo de usuarios es muy grande y tienen una diversidad académica considerable. Ya que nuestro proyecto se encarga de centralizar los eventos de los distintos departamentos, consideramos que el uso de las encuestas para conocer la satisfacción de muchos de estos nos otorgará información muy precisa con respecto a lo que los usuarios quieren.
 
 2. Instrumento
 
@@ -80,7 +82,7 @@
 
     **4.2. ¿Qué pasó con el supuesto crítico?**
 
-    **Se cayó el recorte, no el problema.** El problema existe y está documentado: 13 de 20 se perdieron eventos que querían ver. Lo que se cayó es *dónde* lo ubicaba el TP1: los eventos de otros departamentos casi no le interesan a nadie —2,20 de promedio, ninguna respuesta en 5, cero alumnos que los prioricen—. **El problema es intradepartamental.** Qué implica:
+    **Se cayó el recorte, no el problema.** El problema existe y está documentado: 13 de 20 se perdieron eventos que querían ver. Lo que se cayó es *dónde* lo ubicaba el TP1: los eventos de otros departamentos casi no le interesan a nadie —2,20 de promedio, ninguna respuesta en 5, cero alumnos que los prioricen—. **El problema es intradepartamental.** La única voz en contra es un alumno que sí lo reclama: *"hay eventos de otros departamentos que abordan escenarios interesantes de la informática desde sus perspectivas (como IA) pero al no seguir a otros departamentos en Instagram no me entero de ellos"* (**U3**). Es 1 de 20, y no mueve el promedio. Qué implica:
 
     - **La funcionalidad 4 —compartir a una cátedra de otro departamento— se queda sin sustento.** Se apoyaba en que esos eventos interesaran (refutado) y en que los docentes quisieran difundirlos (sin evidencia).
     - **La funcionalidad 3 —filtro y segmentación— pasa de antisaturación a núcleo:** es lo que hace que llegue lo del propio departamento, que es lo único que este usuario quiere.
@@ -110,7 +112,7 @@
 
     | Parte | Dato que la sostiene |
     |---|---|
-    | **Usuario** | Las 20 respuestas del grupo primario son de Ing. en Informática del DIIT y 17 de 20 cursan 3.º–5.º (3.1). Se informa por celular: 19 de 20, con 8 sin ningún otro dispositivo (3.4). No busca: 12 de 20 lo hacen "Nunca" o "Esporádicamente", y **U6** — *"no voy a estar revisando múltiples medios"* (3.1). |
-    | **Problema** | Le interesan y no va: interés **3,60** contra asistencia **1,95**, sin ninguna respuesta en 4 ni 5; 8 de 20 combinan interés alto con asistencia baja (3.1). Se los pierde de hecho: **13 de 20** (3.3). El aviso no llega: *"no vi la publicación"*, **15 de 20**; o llega tarde: **11 de 20** y antelación **2,05** (3.3). Del propio departamento y no de otros: interés ajeno **2,20** y **cero alumnos que lo prioricen** (punto 4). |
-    | **Solución** | Centralizar: **20 de 20** lo querrían, hoy hay 10 canales y 3,7 por alumno (3.2). Empujar en vez de esperar la consulta: se deriva de que 12 de 20 no buscan y de que el motivo principal sea no haber visto la publicación (4.2). Filtrar: interés **3,60** propio contra **2,20** ajeno, y 4 de 20 ya rechazan ser notificados (3.2 y 4.1). Información completa: **U22** y **U13** (3.2). |
-    | **Evidencia medible** | Cada umbral se fija contra su línea de base de agosto 2026: *"no vi la publicación"* está en **15 de 20 (75 %)**; la antelación en **2,05 / 5** con 11 de 20 marcando *"demasiado cerca de la fecha"*; y la asistencia **sin ninguna respuesta en 4 ni en 5** (3.1 y 3.3). Se remiden con las mismas preguntas, así que la comparación es directa. |
+    | **Usuario** | Ing. en Informática del DIIT, 17 de 20 cursan 3.º–5.º.<br>Se informa por celular: 19 de 20.<br>No busca por su cuenta: 12 de 20. |
+    | **Problema** | Interés **3,60** contra asistencia **1,95**, sin ninguna respuesta en 4 ni 5.<br>Se perdieron un evento: **13 de 20**.<br>*"No vi la publicación"*: **15 de 20**; *"demasiado cerca de la fecha"*: **11 de 20**.<br>Interés en otros departamentos **2,20**, con cero alumnos que lo prioricen. |
+    | **Solución** | Un solo lugar: **20 de 20**.<br>Empujar en vez de esperar la consulta: 12 de 20 no buscan.<br>Filtrar: **3,60** eventos propios contra **2,20** de eventos ajenos. |
+    | **Evidencia medible** | Líneas de base de agosto 2026: *"no vi la publicación"* **15 de 20 (75 %)**, antelación **2,05 / 5**, y asistencia sin ninguna respuesta en 4 ni 5.<br>Se remiden con las mismas preguntas, así que la comparación es directa. |
