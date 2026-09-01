@@ -58,7 +58,7 @@ Reordenadas por prioridad según la evidencia. El cambio principal respecto de v
 ## 4. Integraciones previstas
 
 - **Intraconsulta UNLaM:** para obtener materias, comisiones y alumnos inscriptos, y así habilitar la segmentación por carrera y año. **Sube de prioridad en v2**: si la segmentación es el núcleo, esta integración es la que la hace posible.
-- **Calendario académico institucional:** para contextualizar los eventos con fechas generales (asuetos, mesas de examen).
+- **Calendario académico institucional:** para contextualizar los eventos con fechas generales del cuatrimestre, como las mesas de examen y verificación de materias.
 - **Canal de la alerta — decisión abierta.** La v1 daba por sentado Teams. El relevamiento no lo confirma ni lo descarta, pero lo acota:
   - **16 de 20 aceptarían** ser notificados por Teams, pero solo **3 de 20** lo mencionan como canal actual: hay aceptación declarada, no hábito.
   - **WhatsApp es el canal no institucional más instalado** (13 de 20) y el de menor fricción de adopción.
